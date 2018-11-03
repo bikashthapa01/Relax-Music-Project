@@ -15,7 +15,7 @@ This App Implements Complete Login and Registration System using which a User ca
 * Run **Apache and MYSQL** From XAMPP Control Panel 
 * Import Database and Tables in Mysql -> sample db provided in **db** directory 
 * Run Project using http://localhost/php url in browser. 
-* Run localhost/create.php to crate default user "Admin" with Password "**!@#_Bikash**"
+* Run localhost/create.php to create default user "Admin" with Password "**!@#_Bikash**"
 
 
 # Screenshots 
