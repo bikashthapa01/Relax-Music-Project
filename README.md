@@ -19,5 +19,5 @@ This App Implements Complete Login and Registration System using which a User ca
 # Screenshots 
 
 1. Basic Login Screen: 
-[Login](https://lh3.googleusercontent.com/d8fbVXgBCe_VAoifTyFCSaPPIvV48uMr2M4xc8zpKcf786io4PBpJukPCCAASheg4J8jZiyFt3Y=w1920-h1080)
+![Login](https://lh3.googleusercontent.com/d8fbVXgBCe_VAoifTyFCSaPPIvV48uMr2M4xc8zpKcf786io4PBpJukPCCAASheg4J8jZiyFt3Y=w1920-h1080)
 
