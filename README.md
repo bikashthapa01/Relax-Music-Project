@@ -5,3 +5,19 @@ This website Provide a API For an Android app which i am currently working on wh
 
 # PHP & MYSQL Authentication System
 This App Implements Complete Login and Registration System using which a User can Create Account and Login using Correct Authentication Details.
+
+
+# How to setup This App In your Syste ? 
+
+> First you are going to need a Local Webserver, ie. XAMPP ( Download From [https://www.apachefriends.org/download.html](Here) ).
+> Install into Your System
+> Clone this repo into **htdocs** folder of XAMPP application (C:\xampp\htdocs) 
+> Run **Apache and MYSQL** From XAMPP Control Panel 
+> Run Project using http://localhost/php url in browser. 
+
+
+# Screenshots 
+
+> Basic Login Screen: 
+![Login](https://lh3.googleusercontent.com/d8fbVXgBCe_VAoifTyFCSaPPIvV48uMr2M4xc8zpKcf786io4PBpJukPCCAASheg4J8jZiyFt3Y=w1920-h1080)
+
