@@ -1,6 +1,6 @@
 <?php 
     
-    $serverName = 'localhost';
+    $serverName = 'localhost:3325';
     $userName = 'root';
     $password = '';
     $dbName = 'relaxMusic';
