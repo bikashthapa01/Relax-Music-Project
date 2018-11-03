@@ -9,15 +9,15 @@ This App Implements Complete Login and Registration System using which a User ca
 
 # How to setup This App In your Syste ? 
 
-> First you are going to need a Local Webserver, ie. XAMPP ( Download From [https://www.apachefriends.org/download.html](Here) ).
-> Install into Your System
-> Clone this repo into **htdocs** folder of XAMPP application (C:\xampp\htdocs) 
-> Run **Apache and MYSQL** From XAMPP Control Panel 
-> Run Project using http://localhost/php url in browser. 
+* First you are going to need a Local Webserver, ie. XAMPP ( Download From [https://www.apachefriends.org/download.html](Here) ).
+* Install into Your System
+* Clone this repo into **htdocs** folder of XAMPP application (C:\xampp\htdocs) 
+* Run **Apache and MYSQL** From XAMPP Control Panel 
+* Run Project using http://localhost/php url in browser. 
 
 
 # Screenshots 
 
-> Basic Login Screen: 
-![Login](https://lh3.googleusercontent.com/d8fbVXgBCe_VAoifTyFCSaPPIvV48uMr2M4xc8zpKcf786io4PBpJukPCCAASheg4J8jZiyFt3Y=w1920-h1080)
+1. Basic Login Screen: 
+[Login](https://lh3.googleusercontent.com/d8fbVXgBCe_VAoifTyFCSaPPIvV48uMr2M4xc8zpKcf786io4PBpJukPCCAASheg4J8jZiyFt3Y=w1920-h1080)
 
