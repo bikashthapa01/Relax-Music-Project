@@ -13,7 +13,9 @@ This App Implements Complete Login and Registration System using which a User ca
 * Install into Your System
 * Clone this repo into **htdocs** folder of XAMPP application (C:\xampp\htdocs) 
 * Run **Apache and MYSQL** From XAMPP Control Panel 
+* Import Database and Tables in Mysql -> sample db provided in **db** directory 
 * Run Project using http://localhost/php url in browser. 
+* Run localhost/create.php to crate default user "Admin" with Password "**!@#_Bikash**"
 
 
 # Screenshots 
