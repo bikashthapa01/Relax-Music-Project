@@ -7,7 +7,7 @@ This website Provide a API For an Android app which i am currently working on wh
 This App Implements Complete Login and Registration System using which a User can Create Account and Login using Correct Authentication Details.
 
 
-# How to setup This App In your Syste ? 
+# How to Clone and Run This project in your System ? 
 
 * First you are going to need a Local Webserver, ie. XAMPP ( Download From [https://www.apachefriends.org/download.html](Here) ).
 * Install into Your System
